@@ -82,10 +82,6 @@ FOCUS
 + Building projects while learning
 + Experimenting with new tools and ideas
 ```
----
-
-<div align="center">
-
 <a href="https://github.com/AyushRony/AyushRony">
 </a>
 
