@@ -82,9 +82,6 @@ FOCUS
 + Building projects while learning
 + Experimenting with new tools and ideas
 ```
-
-</div>
-
 ---
 
 <div align="center">
