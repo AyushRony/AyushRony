@@ -50,16 +50,16 @@ FOCUS
 <td width="45%" valign="top">
 
 ```text
-┌────────────────────────────┐
-│        AYUSH ROY           │
-├────────────────────────────┤
-│ AI / ML Student            │
-│                            │
-│ 📍 Majitar, Rangpo         │
-│ 🎓 SMIT                    │
-│                            │
-│ "Learn. Build. Repeat."    │
-└────────────────────────────┘
+┌─────────────────────────┐
+│        AYUSH ROY        │
+├─────────────────────────┤
+│ AI / ML Student         │
+│                         │
+│ 📍 Majitar, Rangpo      │
+│ 🎓 SMIT                 │
+│                         │
+│ "Learn. Build. Repeat." │
+└─────────────────────────┘
 ```
 
 <br/>
