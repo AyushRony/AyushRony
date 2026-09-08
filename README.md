@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/ayushroyrony">
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="https://www.instagram.com/ayushroyrony">
+<a href="https://www.instagram.com/_.ayushh06._">
 <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 <a href="https://x.com/AyushRoyRony">
