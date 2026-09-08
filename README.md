@@ -113,7 +113,7 @@ FOCUS
 Curiosity killed the cat,<br/>
 but satisfaction brought it back.<br/>
 </sub>
-<hr>
+<br/>
 <sub>
 Curiosity is the starting point.<br/>
 Projects are where the learning happens.
