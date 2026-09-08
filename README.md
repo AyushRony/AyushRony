@@ -55,8 +55,8 @@ FOCUS
 ├─────────────────────────┤
 │ AI / ML Student         │
 │                         │
-│ 📍 Majitar, Rangpo      │
-│ 🎓 SMIT                 │
+│ Majitar, Rangpo         │
+│ SMIT                    │
 │                         │
 │ "Learn. Build. Repeat." │
 └─────────────────────────┘
