@@ -74,7 +74,7 @@ FOCUS
 
 ## `> currently`
 
-<div align="center">
+<div align="left">
 
 ```diff
 + Exploring Artificial Intelligence & Machine Learning
