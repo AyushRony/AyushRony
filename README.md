@@ -87,8 +87,6 @@ FOCUS
 
 ---
 
-## `> featured`
-
 <div align="center">
 
 <a href="https://github.com/AyushRony/AyushRony">
