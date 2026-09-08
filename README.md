@@ -92,7 +92,6 @@ FOCUS
 <div align="center">
 
 <a href="https://github.com/AyushRony/AyushRony">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushRony&repo=AyushRony&hide_border=true&bg_color=0f172a&title_color=F8FAFC&text_color=CBD5E1&icon_color=94A3B8" />
 </a>
 
 </div>
@@ -102,10 +101,6 @@ FOCUS
 ## `> github`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushRony&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&icon_color=CBD5E1&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRony&layout=compact&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=94A3B8&langs_count=5" height="165"/>
 
 <br/><br/>
 
